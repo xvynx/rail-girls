@@ -28,3 +28,6 @@
 .navbar-brand { 
 	background-color: #00FF48;
 }
+ul.nav li a {
+	background: #000;
+}
